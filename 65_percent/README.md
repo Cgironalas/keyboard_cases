@@ -1,4 +1,4 @@
-# Stacked Acrylic Case for Instant 65
+# Stacked Acrylic Case for 65% Keyboards
 
 ## Recommended Layers
 
@@ -60,7 +60,7 @@ Sandwich:
 * USB Cutout: (-134mm, 14mm)
 * Mount Holes:
   * Number: 8
-  * Diameter: 4.4mm for plastic M2 spacers; 1.8mm for screw in layers
+  * Diameter: 4.4mm for plastic M2 spacers; 3mm for brass spacers; 1.9mm for screws
   * Edge Width: 12mm
 * Edge Padding: 12mm for all
 * Plate corners: 5mm
