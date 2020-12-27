@@ -27,7 +27,7 @@ Reduced layout (64 keys) to fit in a blue pill with possible per key backlight /
 [{y:-0.1,x:0.15},"M2"],   
 [{y:-0.9,x:1.4,w:1.5},"Tab","Q",{x:9.2},"P","[","]",{w:1.5},"\\|"],
 [{x:1.25,w:1.75},"Caps","A",{x:9.5},":","\"",{w:2.25},"Enter"],
-[{x:1,w:2.25},"L_Shift","Z",{x:9},">","/",{w:1.75},"R_Shift","L_Fn"],
+[{x:1,w:2.25},"L_Shift","Z",{x:9},">","/",{w:1.75},"R_Shift","R_Fn"],
 [{x:1,w:1.5},"Ctrl","Win"],
 [{r:12,rx:2.75,ry:3.05,y:-3.25,x:1.5},"3","4","5"],
 [{x:1},"W","E","R","T"],
