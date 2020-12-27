@@ -21,24 +21,24 @@ If not using the top layers then make sure the switch layer has holes for screws
 Reduced layout (64 keys) to fit in a blue pill with possible per key backlight / RGB backlight + TRS connection for extension boards. Could possibly add an extra key (add back rCtrl or a third macro key on the left) if both Spacebars are mapped under the same two pins (not recommended since some people prefer to map them to different functions).
 
 ```
-[{x:0.15,a:7},""],
+[{x:0.15,a:7},"M1"],
 [{y:-0.95,x:3.5},"2"],
 [{y:-0.95,x:1.5},"~","1",{x:9.85},"-","=",{w:2},"Backspace"],
-[{y:-0.1,x:0.15},""],   
+[{y:-0.1,x:0.15},"M2"],   
 [{y:-0.9,x:1.4,w:1.5},"Tab","Q",{x:9.2},"P","[","]",{w:1.5},"\\|"],
 [{x:1.25,w:1.75},"Caps","A",{x:9.5},":","\"",{w:2.25},"Enter"],
-[{x:1,w:2.25},"Shift","Z",{x:9},">","/",{w:1.75},"Shift","Fn"],
+[{x:1,w:2.25},"L_Shift","Z",{x:9},">","/",{w:1.75},"R_Shift","L_Fn"],
 [{x:1,w:1.5},"Ctrl","Win"],
 [{r:12,rx:2.75,ry:3.05,y:-3.25,x:1.5},"3","4","5"],
 [{x:1},"W","E","R","T"],
 [{x:1.25},"S","D","F","G"],
 [{x:1.75},"X","C","V","B"],
-[{x:1.5,w:1.5},"Alt",{w:2.25},"Space","Fn"],
+[{x:1.5,w:1.5},"L_Alt",{w:2.25},"L_Space","L_Fn"],
 [{r:-12,rx:13.5,y:-3,x:-4.75},"6","7","8","9","0"],
 [{x:-4.25},"Y","U","I","O"],
 [{x:-4},"H","J","K","L"],
 [{x:-4.5},"B","N","M","<"],
-[{x:-4.5,w:2.75},"Space",{w:1.5},"Alt"]
+[{x:-4.5,w:2.75},"R_Space",{w:1.5},"R_Alt"]
 ```
 
 ## SWILLKB Settings
