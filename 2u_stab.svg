@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 75.590549 132.28348"
+   width="20mm"
+   height="35mm"
+   version="1.1"
+   id="svg461"
+   sodipodi:docname="2u_stab.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+  <metadata
+     id="metadata465">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview463"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:zoom="5.9223907"
+     inkscape:cx="-23.673377"
+     inkscape:cy="62.843509"
+     inkscape:window-x="-8"
+     inkscape:window-y="885"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g188"
+     inkscape:document-rotation="0"
+     inkscape:document-units="mm"
+     units="mm" />
+  <defs
+     id="defs125">
+    <marker
+       id="DistanceX"
+       orient="auto"
+       refX="0"
+       refY="0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         style="stroke:#000000;stroke-width:0.5"
+         id="path113" />
+    </marker>
+    <pattern
+       id="Hatch"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path116" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path118" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path120" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE" />
+    <symbol
+       id="*PAPER_SPACE" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="0"
+     id="g457">
+    <g
+       id="g188">
+      <path
+         d="M 56.52361,95.74 H 7.38981 a 1.889764,1.889764 0 0 0 -1.8898,1.88976 v 21.73229 a 1.889764,1.889764 0 0 0 1.8898,1.88976 h 49.1338 a 1.889764,1.889764 0 0 0 1.8898,-1.88976 V 97.62976 A 1.889764,1.889764 0 0 0 56.52361,95.74 Z"
+         style="fill:none;stroke:#000000;stroke-width:0.94488193;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path147" />
+      <path
+         d="M 11.16931,89.8326 A 1.889764,1.889764 0 0 1 9.27951,87.94283 V 38.80898 a 1.889764,1.889764 0 0 1 1.8898,-1.88977 h 49.1338 a 1.889764,1.889764 0 0 1 1.8898,1.88977 v 49.13385 a 1.889764,1.889764 0 0 1 -1.8898,1.88977 z"
+         style="fill:none;stroke:#000000;stroke-width:0.94488193;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path149" />
+      <path
+         d="m 7.38981,31.01181 h 49.1338 a 1.889764,1.889764 0 0 0 1.8898,-1.88976 V 7.38976 A 1.889764,1.889764 0 0 0 56.52361,5.5 H 7.38981 a 1.889764,1.889764 0 0 0 -1.8898,1.88976 v 21.73229 a 1.889764,1.889764 0 0 0 1.8898,1.88976 z"
+         style="fill:none;stroke:#000000;stroke-width:0.94488193;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path159" />
+    </g>
+  </g>
+  <desc
+     id="desc459">brutal_ansi.dxf - scale = 1.000000, origin = (0.000000, 0.000000), method = manual</desc>
+</svg>
