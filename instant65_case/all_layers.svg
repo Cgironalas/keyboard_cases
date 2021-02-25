@@ -12,7 +12,7 @@
    viewBox="0 0 328.85001 119.30001"
    version="1.1"
    id="svg24"
-   sodipodi:docname="kbplate.svg"
+   sodipodi:docname="all_layers.svg"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata30">
@@ -42,14 +42,14 @@
      id="namedview26"
      showgrid="false"
      inkscape:document-units="mm"
-     inkscape:zoom="1.1762835"
+     inkscape:zoom="1.1513418"
      inkscape:cx="621.44883"
      inkscape:cy="225.44882"
      inkscape:window-x="-8"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="g997"
-     inkscape:snap-nodes="false"
+     inkscape:snap-nodes="true"
      inkscape:snap-object-midpoints="true"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -256,168 +256,6 @@
      inkscape:label="extra_space-8" />
   <g
      inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="case_holes_1.9-8"
-     style="display:none">
-    <circle
-       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
-       id="path915"
-       cx="6.0999999"
-       cy="59.75"
-       r="1" />
-    <circle
-       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
-       id="circle925"
-       cx="6.0999999"
-       cy="6.0999999"
-       r="1" />
-    <circle
-       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
-       id="circle929"
-       cx="164.52499"
-       cy="6.0999999"
-       r="1" />
-    <circle
-       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
-       id="circle931"
-       cx="322.95001"
-       cy="6.0999999"
-       r="1" />
-    <circle
-       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
-       id="circle933"
-       cx="322.95001"
-       cy="59.75"
-       r="1" />
-    <circle
-       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
-       id="circle937"
-       cx="322.95001"
-       cy="113.4"
-       r="1" />
-    <circle
-       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
-       id="circle941"
-       cx="164.52499"
-       cy="113.4"
-       r="1" />
-    <circle
-       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
-       id="circle943"
-       cx="6.0999994"
-       cy="113.4"
-       r="1" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="g961"
-     inkscape:label="case_holes_3-8"
-     style="display:none">
-    <circle
-       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
-       id="circle945"
-       cx="6.0999999"
-       cy="59.75"
-       r="1.5" />
-    <circle
-       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
-       id="circle947"
-       cx="6.0999999"
-       cy="6.0999999"
-       r="1.5" />
-    <circle
-       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
-       id="circle949"
-       cx="164.52499"
-       cy="6.0999999"
-       r="1.5" />
-    <circle
-       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
-       id="circle951"
-       cx="322.95001"
-       cy="6.0999999"
-       r="1.5" />
-    <circle
-       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
-       id="circle953"
-       cx="322.95001"
-       cy="59.75"
-       r="1.5" />
-    <circle
-       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
-       id="circle955"
-       cx="322.95001"
-       cy="113.4"
-       r="1.5" />
-    <circle
-       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
-       id="circle957"
-       cx="164.52499"
-       cy="113.4"
-       r="1.5" />
-    <circle
-       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
-       id="circle959"
-       cx="6.0999994"
-       cy="113.4"
-       r="1.5" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="g979"
-     inkscape:label="case_holes_4.4-8"
-     style="display:none">
-    <circle
-       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
-       id="circle963"
-       cx="6.0999999"
-       cy="59.75"
-       r="2.2" />
-    <circle
-       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
-       id="circle965"
-       cx="6.0999999"
-       cy="6.0999999"
-       r="2.2" />
-    <circle
-       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
-       id="circle967"
-       cx="164.52499"
-       cy="6.0999999"
-       r="2.2" />
-    <circle
-       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
-       id="circle969"
-       cx="322.95001"
-       cy="6.0999999"
-       r="2.2" />
-    <circle
-       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
-       id="circle971"
-       cx="322.95001"
-       cy="59.75"
-       r="2.2" />
-    <circle
-       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
-       id="circle973"
-       cx="322.95001"
-       cy="113.4"
-       r="2.2" />
-    <circle
-       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
-       id="circle975"
-       cx="164.52499"
-       cy="113.4"
-       r="2.2" />
-    <circle
-       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
-       id="circle977"
-       cx="6.0999994"
-       cy="113.4"
-       r="2.2" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
      id="g997"
      inkscape:label="case_holes_1.9-10"
      style="display:inline">
@@ -528,7 +366,7 @@
      inkscape:groupmode="layer"
      id="g1033"
      inkscape:label="case_holes_4.4-10"
-     style="display:none">
+     style="display:inline">
     <circle
        style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
        id="circle1017"
