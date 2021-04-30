@@ -27,7 +27,25 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs9" />
+     id="defs9">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect17"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,5,0,1 @ F,0,0,1,0,5,0,1 @ F,0,0,1,0,5,0,1 @ F,0,0,1,0,5,0,1 @ F,0,0,1,0,5,0,1 @ F,0,0,1,0,5,0,1 @ F,0,0,1,0,5,0,1 @ F,0,0,1,0,5,0,1 @ F,0,0,1,0,5,0,1 @ F,0,0,1,0,5,0,1 @ F,0,0,1,0,5,0,1 @ F,0,0,1,0,5,0,1"
+       unit="mm"
+       method="auto"
+       mode="F"
+       radius="5"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -69,8 +87,10 @@
        id="path229"
        style="font-size:12px;display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.755906;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        transform="scale(0.26458333)"
-       d="M 574.20473,410.55119 H 354.4252 v -73.51182 h -32.22047 v 73.51182 H 48.427087 V 45.259843 H 556.20662 V 7.464567 H 10.631812 l -10e-7,440.881893 H 574.20473 Z"
-       sodipodi:nodetypes="ccccccccccccc" />
+       d="M 569.20473,410.55119 H 359.4252 a 5,5 45 0 1 -5,-5 v -63.51182 a 5,5 45 0 0 -5,-5 h -22.22047 a 5,5 135 0 0 -5,5 v 63.51182 a 5,5 135 0 1 -5,5 H 53.427087 a 5,5 45 0 1 -5,-5 V 50.259843 a 5,5 135 0 1 5,-5 H 551.20662 a 5,5 135 0 0 5,-5 V 12.464567 a 5,5 45 0 0 -5,-5 l -535.574808,0 a 5,5 135 0 0 -5,5 l -10e-7,430.881893 a 5,5 45 0 0 5,5 H 569.20473 a 5,5 135 0 0 5,-5 v -27.79527 a 5,5 45 0 0 -5,-5 z"
+       sodipodi:nodetypes="ccccccccccccc"
+       inkscape:path-effect="#path-effect17"
+       inkscape:original-d="M 574.20473,410.55119 H 354.4252 v -73.51182 h -32.22047 v 73.51182 H 48.427087 V 45.259843 H 556.20662 V 7.464567 H 10.631812 l -10e-7,440.881893 H 574.20473 Z" />
   </g>
   <g
      inkscape:groupmode="layer"
